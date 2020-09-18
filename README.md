@@ -5,8 +5,3 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zchengb&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 </div>
-
-
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-![ViewCount](https://views.whatilearened.today/views/github/zchengb/zchengb.svg?cache=remove)
